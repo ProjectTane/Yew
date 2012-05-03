@@ -2,5 +2,8 @@
 bin
 obj
 
+# Cache files
+*.suo
+
 # mstest test results
 TestResults
